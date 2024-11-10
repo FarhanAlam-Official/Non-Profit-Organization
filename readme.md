@@ -62,14 +62,8 @@
     <li><strong>Navigate to the project directory</strong>:
         <pre><code>cd Non-Profit-Organization</code></pre>
     </li>
-    <li><strong>Compile the program</strong>: Use GCC or any other C compiler to compile the source code:
-        <pre><code>gcc -o Non_Profit_Organization.exe Non_Profit_Organization.c</code></pre>
-    </li>
-    <li><strong>Generate the object file</strong>: To create an object file (`.o`) for the source code:
-        <pre><code>gcc -c Non_Profit_Organization.c -o Non_Profit_Organization.o</code></pre>
-    </li>
-    <li><strong>Link the object file</strong>: To link the object file and generate the executable:
-        <pre><code>gcc Non_Profit_Organization.o -o Non_Profit_Organization.exe</code></pre>
+    <li><strong>Compile and generate the executable</strong>: Use GCC or any other C compiler to compile and link the source code in a single step:
+        <pre><code>gcc Non_Profit_Organization.c -o Non_Profit_Organization.exe</code></pre>
     </li>
     <li><strong>Run the program</strong>: After successful compilation, execute the program:
         <pre><code>./Non_Profit_Organization.exe</code></pre>
