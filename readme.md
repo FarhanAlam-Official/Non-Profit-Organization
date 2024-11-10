@@ -57,10 +57,10 @@
 <h3>Steps</h3>
 <ol>
     <li><strong>Clone the repository</strong>: Clone this repository to your local machine using the following command:
-        <pre><code>git clone https://github.com/yourusername/non-profit-management-system.git</code></pre>
+        <pre><code>git clone https://github.com/FarhanAlam-Official/Non-Profit-Organization.git</code></pre>
     </li>
     <li><strong>Navigate to the project directory</strong>:
-        <pre><code>cd non-profit-management-system</code></pre>
+        <pre><code>cd Non-Profit-Organization</code></pre>
     </li>
     <li><strong>Compile the program</strong>: Use GCC or any other C compiler to compile the source code:
         <pre><code>gcc -o Non_Profit_Organization.exe Non_Profit_Organization.c</code></pre>
